@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Pereira</h1>
-<h3 align="center">A passionate Senior Finance analyst stumbling away into the data world from Costa Rica to the world!</h3>
+<h3 align="center">A passionate Senior Finance analyst stumbling away into the data science from Costa Rica to the world!</h3>
 
 - 🔭 I’m currently working on **building up my Github profile with Data Science Projects**
 
